@@ -16,4 +16,4 @@ Dans application.properties, changer son nom utilisateur et son mdp.
 
 # Bon jeu !
 
-Enzo, Hugo, Luca, Maxime, Tom.
+Enzo Jupille, Hugo Lagahe, Luca Ordronneau, Maxime Adda, Tom Soulage.
